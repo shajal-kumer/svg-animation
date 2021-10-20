@@ -1,6 +1,8 @@
 # CSS GRID Practice
 
-## Click the bellow link to see some of my project
+## Click the bellow link to see some of my practiced project
+
+https://shajal-kumer.github.io/svg-animation/
 
 ---
 
