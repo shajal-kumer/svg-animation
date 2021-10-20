@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	width: 500px;
+	box-shadow: 0 4px 8px rgb(0, 0, 0, 0.4);
+	padding: 25px;
+	margin: 0 auto;
+	border-radius: 20%;
+	height: 500px;
+	margin-top: 50px;
+}
+
+.container svg {
+	width: 100%;
+}
+
+#bg-element {
+	animation: changeColor 2s infinite alternate;
+}
+
+@keyframes changeColor {
+	from {
+		fill: red;
+	}
+	to {
+		fill: blue;
+	}
+}
+
+#soccer-ball {
+	animation: bounce 1s ease-out infinite alternate;
+}
+@keyframes bounce {
+	from {
+		transform: translateY(0%);
+	}
+	to {
+		transform: translateY(-100px);
+	}
+}
+
+#shoe {
+	animation: rotate 1s infinite alternate;
+	transform-origin: 70% 40%;
+	transform-box: fill-box;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotateZ(0deg);
+	}
+	100% {
+		transform: rotateZ(20deg);
+	}
+}
+
+#right-hand {
+	animation: rotate-right-hand 2s infinite alternate;
+	transform-origin: 70% 40%;
+	transform-box: fill-box;
+}
+
+@keyframes rotate-right-hand {
+	0% {
+		transform: rotateZ(-5deg);
+	}
+	100% {
+		transform: rotateZ(15deg);
+	}
+}
+
+#left-hand {
+	animation: rotate-left-hand 2s infinite alternate;
+	transform-origin: 70% 30%;
+	transform-box: fill-box;
+}
+
+@keyframes rotate-left-hand {
+	0% {
+		transform: rotateZ(10deg);
+	}
+	100% {
+		transform: rotateZ(0deg);
+	}
+}
