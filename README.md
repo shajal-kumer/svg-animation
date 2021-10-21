@@ -1,4 +1,4 @@
-# CSS GRID Practice
+# SVG Animation with CSS Practice
 
 ## Click the bellow link to see some of my practiced project
 
@@ -119,19 +119,19 @@ Already blueFrom blue to greenRemains gree
 
 ---
 
-**Bicycle SVG Animation with CSS**
+1. **Bicycle SVG Animation with CSS**
 
 -   ![(bicyle.png](bicyle.png)
 
-**Cat SVG Animation with CSS**
+2. **Cat SVG Animation with CSS**
 
 -   ![(cat.png](cat.png)
 
-**Soccer SVG Animation with CSS**
+3. **Soccer SVG Animation with CSS**
 
 -   ![(soccer.png](soccer.png)
 
-**Text SVG Animation with CSS**
+4. **Text SVG Animation with CSS**
 
 -   ![text.png](text.png)
 
