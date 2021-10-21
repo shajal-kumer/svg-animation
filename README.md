@@ -101,7 +101,6 @@ https://shajal-kumer.github.io/svg-animation/
 
 > > **Both:** the styles are applied before and after the animation plays
 
-
 -   `animation-fill-mode: forward;`
 
 > animation-direction: normal[default] | reverse | alternate | alternate-reverse
@@ -115,6 +114,18 @@ https://shajal-kumer.github.io/svg-animation/
 > > **alternate-reverse**: starts at 100%, goes to 0%, goes to 100%
 
 -   `animation-direction: forward;`
+
+> @keyframes animationname {keyframes-selector {css-styles;}}
+
+> > The animation is created by gradually changing from one set of CSS styles to another.
+
+> > During the animation, you can change the set of CSS styles many times.
+
+-   `@keyframes move {`
+-   -   `0% {top: 0px;}`
+-   -   `75% {top: 200px;}`
+-   -   `100% {top: 0px;}`
+-   `}`
 
 ---
 
