@@ -101,7 +101,6 @@ https://shajal-kumer.github.io/svg-animation/
 
 > > **Both:** the styles are applied before and after the animation plays
 
-Already blueFrom blue to greenRemains gree
 
 -   `animation-fill-mode: forward;`
 
