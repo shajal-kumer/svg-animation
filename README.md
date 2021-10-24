@@ -1,16 +1,14 @@
 # SVG Animation with CSS Practice
 
-## Click the bellow link to see some of my practiced project
+This repo is the part of my frot-end development journey. The advantages of SVG on the web go beyond producing resolution-independent graphics. With a little CSS and JavaScript, we can apply cool animations and effects to out front end without requiring the user to install bulky plugins. So i have tried to lean SVG animation and practiced some project
+
+## Demo
 
 https://shajal-kumer.github.io/svg-animation/
 
----
+## Lessons Learned
 
-## What i learned?
-
-### SVG attribute
-
----
+SVG attributes
 
 > stroke-dasharray: none[default] | dasharray | 10, 5 | 18, 10, 6
 
@@ -31,9 +29,7 @@ https://shajal-kumer.github.io/svg-animation/
 
 -   `fill: green`
 
-### CSS transform propertie
-
----
+CSS transform property and its values
 
 > transform: translateX | translateY | rotate | rotateY | scale | scaleX | scaleY;
 
@@ -51,7 +47,7 @@ https://shajal-kumer.github.io/svg-animation/
 
 -   `transform-box: fill-box;`
 
-### CSS animation propertie & @keyframe
+CSS animation propertie and it's values & @keyframe
 
 ---
 
@@ -127,7 +123,7 @@ https://shajal-kumer.github.io/svg-animation/
 -   -   `100% {top: 0px;}`
 -   `}`
 
----
+## Screenshots
 
 1. **Bicycle SVG Animation with CSS**
 
@@ -145,7 +141,19 @@ https://shajal-kumer.github.io/svg-animation/
 
 -   ![text.png](text.png)
 
-References:
+## Tech Stack
+
+**Client:** HTML, CSS, SVG, Javascript
+
+## 🚀 About Me
+
+I'm a front-end developer
+
+## 🛠 Skills
+
+Javascript, React, HTML, CSS, Bootstrap, Tailwind, SASS, SVG, GSAP
+
+## Acknowledgements
 
 1. https://marksheet.io/css-animations.html
 2. https://www.w3schools.com/css/css3_animations.asp
