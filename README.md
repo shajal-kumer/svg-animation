@@ -1,6 +1,6 @@
 # SVG Animation with CSS Practice
 
-This repo is the part of my frot-end development journey. The advantages of SVG on the web go beyond producing resolution-independent graphics. With a little CSS and JavaScript, we can apply cool animations and effects to out front end without requiring the user to install bulky plugins. So i have tried to lean SVG animation and practiced some project
+This repo is the part of my front-end development journey. The advantages of SVG on the web go beyond producing resolution-independent graphics. With a little CSS and JavaScript, we can apply cool animations and effects to out front end without requiring the user to install bulky plugins. So i have tried to lean SVG animation and practiced some project
 
 ## Demo
 
